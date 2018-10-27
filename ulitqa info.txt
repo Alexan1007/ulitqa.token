@@ -1,0 +1,36 @@
+Type
+3 Asset issue
+Version
+2
+Timestamp
+2018-10-24 14:55:57
+Block
+1230704
+Asset ID
+3ty7r24gzoBXF949ekViBLTHkbCBJkqLsRpoV4oqDfB9
+Asset Name
+ulitqa
+Reissuable
+Amount
+11999999999.00000000
+Decimals
+8
+Description
+ulitqa - token, the purpose of which is placement on all existing cryptocurrency exchanges, as a motivation for the development of the entire cryptocurrency community.
+ulitqa - токен, цель которого - размещение на всех существующих криптовалютных биржах, как мотивация для развития всего криптовалютного сообщества.
+Fee
+1 WAVES
+Issuer
+3P4Me7iYfGNX7h61bjJdD3MY5gLHUiexX8j
+Proofs
+4szqvo3ravTAUVLu53KTKDGcW1iKiX4xpUAjya8BkeVdgs2GryvrwJnrzSJqUf552cQXea7r8W5HuzidBjVaZBc
+
+
+
+
+
+--------------------------------------------------------
+https://wavesexplorer.com/tx/3ty7r24gzoBXF949ekViBLTHkbCBJkqLsRpoV4oqDfB9
+
+--------------------------------------------------------
+
